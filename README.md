@@ -72,7 +72,8 @@ Data preparation was performed using **Python** and **Power Query**, including:
 
 ## 👥 Team Members
 
-- Razan Emad  
+- Razan Emad
+- Areej Sofy 
 - Kenzy Essam  
 - Amany Ashraf  
 - Yomna Elameer  
